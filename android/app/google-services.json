@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "962601600541",
+    "project_id": "lp-capital",
+    "storage_bucket": "lp-capital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962601600541:android:c45b2a949fdde9840328f4",
+        "android_client_info": {
+          "package_name": "org.lpcapital.appIp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962601600541-bae83ivf167mobs89adi95qq37uu2bki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.lpcapital.appIp",
+            "certificate_hash": "bdf5f66553d21fd34201dcc5496d987b4f81647f"
+          }
+        },
+        {
+          "client_id": "962601600541-r34i5nan211iquslql41rh20i86eu7jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBPNwka7YzN1NogK5JABc0JOVm1SP5kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962601600541-r34i5nan211iquslql41rh20i86eu7jj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962601600541-k5svlvqfjlu4387vfnan59ee1bbhepg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lpcapital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
